@@ -1,0 +1,7 @@
+﻿  game.cpp
+  test.cpp
+  正在生成代码
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 16 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  扫雷.vcxproj -> D:\vs代码\扫雷\x64\Release\扫雷.exe
